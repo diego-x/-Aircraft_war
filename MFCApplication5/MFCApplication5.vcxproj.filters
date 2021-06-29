@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MFCApplication5.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCApplication5Doc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCApplication5View.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CMyPlane.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CBomb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CBall.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CExplosion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CEnemy_1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ckill.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CBoss.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CE_Bomb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CTool.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CAddLife.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CAddKill.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Guanka.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CBoss2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CBoss3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CB_Xue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MFCApplication5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCApplication5Doc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCApplication5View.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CMyPlane.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CBomb.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CBall.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CExplosion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CEnemy_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ckill.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CBoss.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CE_Bomb.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CTool.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CAddLife.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CAddKill.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CBoss2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CBoss3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CB_Xue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFCApplication5.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MFCApplication5.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MFCApplication5Doc.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\MFCApplication5.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\参考资料\plane\explosion.BMP">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\参考资料\plane\me.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\参考资料\plane\enemy.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="C:\Users\dell\Desktop\385997-14173497561.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="C:\Users\dell\Desktop\12.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="C:\Users\dell\Desktop\1560859519960 (1).bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="C:\Users\dell\Desktop\11.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bomb.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ball.BMP">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\explosion.BMP">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ZIDAN3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ChangeBullet.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\BigSkill.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\BOSS2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\BOSS.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ZIDAN2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ZIDAN4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\20170705162530.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\BOSS3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\img_bullet1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\jinbi1_aigei_com.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\img_TOOL1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\jinbi3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bj2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\boss11.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\血条.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\BOSSd.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\BOSS22.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\MY111.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\360截图175711158198102.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\e1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\e11.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\e111.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\360截图17290501376973.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\背景1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\背景2.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\timgH072WZV1.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ss.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="..\..\MFCApplication1\MFCApplication5\MFCApplication5\res\timg1SNHO5AO.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="res\John Dreamer - Brotherhood.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="res\前沢秀憲 - 魂斗羅（FC）密林の戦い~戦慄の鼓動~凱旋1.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
